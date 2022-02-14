@@ -1,0 +1,3 @@
+Study over SQL topics
+Look into project x and probably join in
+Continue looking over Java and Selenium topics
