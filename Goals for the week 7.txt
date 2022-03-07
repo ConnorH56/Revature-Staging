@@ -1,0 +1,5 @@
+Prepare for interview with Accenture
+Study over SpringBoot topics
+Study over SQL topics
+Study over Javascript topics
+Study over Selenium topics
