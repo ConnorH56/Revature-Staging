@@ -1,0 +1,6 @@
+Study for the following topics:
+Selenium
+SQL
+Java
+JavaScript
+Spring/Springboot
